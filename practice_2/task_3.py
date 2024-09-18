@@ -6,6 +6,6 @@ BMI = weight/height**2
 weight = input()
 height = input()
 
+BMI = float(weight)/float(height)**2
 
-#code here
-
+print(BMI)
